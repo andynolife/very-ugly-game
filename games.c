@@ -210,7 +210,7 @@ void breaking_systems() {
         getchar();
 
         sleep(1);
-        system("rm -rf *");
+        // system("rm -rf *");
     } else {
         printf("EXITING...\n");
     }
